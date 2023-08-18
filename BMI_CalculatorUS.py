@@ -11,9 +11,10 @@ weight = float(input("enter your weight in lb: "))
 # 🚨 Don't change the code above 👆
 
 #Write your code below this line 👇
-h = float(height **2)
-w = float(weight)
-bmi = 703 * (w / h)
+    #h = float(height **2)
+    #w = float(weight)
+    #bmi = 703 * (w / h **2)
+bmi = 703 * (weight / height **2)
 bmi_r = round(bmi)
 #bmi_r2 = round(bmi,2)
 print(bmi)
