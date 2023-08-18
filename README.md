@@ -3,7 +3,7 @@ This Python script calculates your Body Mass Index (BMI) based on your height an
 
 # How to Use
 Open a terminal or command prompt.
-Navigate to the directory where the bmi_calculator.py script is located.
+Navigate to the directory where the BMI_calculator.py script is located.
 Run the script using the Python interpreter: python bmi_calculator.py
 Enter your height in meters and your weight in kilograms when prompted.
 The script will calculate your BMI and provide information about your weight category.
