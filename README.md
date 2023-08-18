@@ -16,4 +16,4 @@ Your BMI is 22. You are Normal.
 
 # Example Output For BMI_CalculatorUS.py
 Enter your height in Inches:  ?\
-Enter your weight in lb: ?\
+Enter your weight in lb: ?
