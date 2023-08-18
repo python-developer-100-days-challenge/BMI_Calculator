@@ -13,10 +13,10 @@ height = float(input("Enter your height in meters: "))
 weight = float(input("Enter your weight in kg: "))
 
 # Calculate BMI using the formula: weight / (height^2)
-x = float(height ** 2)
-y = float(weight)
-bmi = y / x
-
+    #x = float(height ** 2)
+    #y = float(weight)
+    #bmi = y / x
+bmi = (weight / height **2)
 # Round the calculated BMI to the nearest integer
 bmi_r = round(bmi)
 
